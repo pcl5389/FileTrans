@@ -1,0 +1,15 @@
+D:\Projects\FileTrans\FileTrans\bin\Debug\FileTrans.exe
+D:\Projects\FileTrans\FileTrans\bin\Debug\FileTrans.pdb
+D:\Projects\FileTrans\FileTrans\bin\Debug\Scaler.dll
+D:\Projects\FileTrans\FileTrans\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\FileTrans\FileTrans\bin\Debug\VTemplate.Engine.dll
+D:\Projects\FileTrans\FileTrans\bin\Debug\AjaxPro.2.dll
+D:\Projects\FileTrans\FileTrans\bin\Debug\Scaler.pdb
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.csprojAssemblyReference.cache
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.Form1.resources
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.Properties.Resources.resources
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.csproj.GenerateResource.cache
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.csproj.CoreCompileInputs.cache
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.csproj.CopyComplete
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.exe
+D:\Projects\FileTrans\FileTrans\obj\Debug\FileTrans.pdb
